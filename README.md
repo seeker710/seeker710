@@ -28,4 +28,4 @@
 
 <h3>My Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seeker710&show_icons=true&locale=en&layout=compact" alt="seeker710" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seeker710&show_icons=true&locale=en" alt="seeker710" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seeker710&show_icons=true&locale=en" alt="seeker710" /></p>
