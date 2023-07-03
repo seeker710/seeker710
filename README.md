@@ -3,15 +3,15 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🔭 I’m currently working on **Profile Readme Generator**
+- 🔭 Ask me anything about **ReactJS and NodeJS**
 
-- 🌱 I’m currently learning **Flutter, ReactJS**
+- 🌱 I’m currently learning **Flutter, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/seeker710](https://github.com/seeker710)
 
 - 💬 Ask me about **HTML, CSS, SCSS, JavaScript**
 
-- 📫 How to reach me **sagarm7102002@gmail.com**
+- 📫 How to reach me **sagarmandal3.142com**, yes it as easy as eating a pie!!!
 
 - ⚡ Fun fact **All people think I am really boring**
 
